@@ -1,0 +1,87 @@
+.e117_2 { 
+	overflow:hidden;
+}
+.e117_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1920px;
+	height:1080px;
+	position:absolute;
+}
+.e117_14 { 
+	background-color:rgba(255, 255, 255, 0.75);
+	width:1920px;
+	height:1080px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/backSEAR.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e117_15 { 
+	width:1806px;
+	height:110px;
+	position:absolute;
+	left:67px;
+	top:113px;
+}
+.e117_8 { 
+	color:rgba(0, 0, 0, 1);
+	width:642px;
+	height:72px;
+	position:absolute;
+	left:89px;
+	top:15px;
+	font-family:Istok Web;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e117_7 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e117_7 { 
+	width:1806px;
+	height:110px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:45px;
+	border-top-right-radius:45px;
+	border-bottom-left-radius:45px;
+	border-bottom-right-radius:45px;
+}
+.e117_9 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e117_9 { 
+	width:1806px;
+	height:791px;
+	position:absolute;
+	left:67px;
+	top:223px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}
+.e117_10 { 
+	width:89px;
+	height:67.70085144042969px;
+	position:absolute;
+	left:67px;
+	top:132px;
+	background-image:url(images/image_6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e120_16 { 
+	width:50px;
+	height:43.33333206176758px;
+	position:absolute;
+	left:1848px;
+	top:21px;
+	background-image:url(images/image_kreast.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

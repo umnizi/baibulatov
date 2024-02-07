@@ -1,0 +1,154 @@
+.e77_11 { 
+	overflow:hidden;
+}
+.e77_11 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1920px;
+	height:1080px;
+	position: absolute;
+}
+.e77_13 { 
+	color:rgba(0, 0, 0, 1);
+	width:468px;
+	height:73px;
+	position:absolute;
+	left:726px;
+	top:74px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e77_25 { 
+	width:1920px;
+	height:1080px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/legendsback.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e77_15 { 
+	color:rgba(0, 0, 0, 1);
+	width:1036px;
+	height:73px;
+	position:absolute;
+	left:442px;
+	top:178px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e77_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:267px;
+	height:73px;
+	position:absolute;
+	left:77px;
+	top:251px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e77_17 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e77_17 { 
+	width:1512px;
+	height:100px;
+	position:absolute;
+	left:77px;
+	top:583px;
+}
+.e77_22 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e77_22 { 
+	width:1512px;
+	height:100px;
+	position:absolute;
+	left:77px;
+	top:872px;
+}
+.e77_19 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e77_19 { 
+	width:1512px;
+	height:100px;
+	position:absolute;
+	left:77px;
+	top:324px;
+}
+.e77_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:124px;
+	height:73px;
+	position:absolute;
+	left:77px;
+	top:467px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e77_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:391px;
+	height:73px;
+	position:absolute;
+	left:77px;
+	top:756px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e77_38 { 
+	width:287px;
+	height:100px;
+	position:absolute;
+	left:1633px;
+	top:948px;
+}
+.e77_24 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e77_24 { 
+	width:287px;
+	height:100px;
+	position:absolute;
+	left:-17px;
+	top:0px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e77_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:185px;
+	height:73px;
+	position:absolute;
+	left:43px;
+	top:14px;
+	font-family:Inter;
+	text-align:center;
+	font-size:60px;
+	letter-spacing:0;
+	z-index: 1;
+	text-decoration: none;
+}
+.e98_4 { 
+	width:50px;
+	height:43.33333206176758px;
+	position:absolute;
+	left:1844px;
+	top:31px;
+	background-image:url(images/image_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
